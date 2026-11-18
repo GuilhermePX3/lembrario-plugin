@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lembrario": {
+      "type": "http",
+      "url": "https://conn.lembrar.io/mcp"
+    }
+  }
+}

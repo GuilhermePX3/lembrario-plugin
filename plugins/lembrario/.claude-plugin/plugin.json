@@ -1,0 +1,12 @@
+{
+  "name": "lembrario",
+  "displayName": "lembrar.io",
+  "version": "0.1.0",
+  "description": "Conecta o Claude aos seus casos no lembrar.io (notas, conversas, e-mails e anexos) e traz skills jurídicas que conferem cada fato no registro antes de citá-lo.",
+  "author": {
+    "name": "lembrario",
+    "url": "https://lembrar.io",
+    "email": "suporte@lembrar.io"
+  },
+  "license": "UNLICENSED"
+}
