@@ -1,0 +1,15 @@
+{
+  "name": "lembrario",
+  "description": "Plugin oficial do lembrar.io para o Claude: conector dos seus casos e skills jurídicas.",
+  "owner": {
+    "name": "lembrario",
+    "email": "suporte@lembrar.io"
+  },
+  "plugins": [
+    {
+      "name": "lembrario",
+      "source": "./plugins/lembrario",
+      "description": "Conecte o Claude aos seus casos no lembrar.io (notas, conversas, e-mails e anexos) e use skills jurídicas que trabalham com as provas do caso."
+    }
+  ]
+}
